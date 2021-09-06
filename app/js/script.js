@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-console.log("Hello!");
-=======
 const qa = [
     {
         question: "How many team members can I invite?",
@@ -65,4 +62,3 @@ for (let i = 0; i < qa.length; i++) {
         }
     });
 }
->>>>>>> dev
