@@ -32,6 +32,13 @@ body {
   background: linear-gradient(0deg, var(--bg-soft-blue) 0%, var(--bg-soft-violet) 100%);
 }
 
+@media (max-width: 699px) and (max-height: 840px) {
+  body {
+    min-height: 105vh;
+    margin: 5rem 0 3rem 0;
+  }
+}
+
 :root {
   --text-dark-blue: hsl(238, 29%, 16%);
   --text-soft-red: hsl(14, 88%, 65%);
