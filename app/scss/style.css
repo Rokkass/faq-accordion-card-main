@@ -27,6 +27,7 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  position: relative;
   color: var(--text2-dark-grayish-blue);
   background: -webkit-gradient(linear, left bottom, left top, from(var(--bg-soft-blue)), to(var(--bg-soft-violet)));
   background: linear-gradient(0deg, var(--bg-soft-blue) 0%, var(--bg-soft-violet) 100%);
